@@ -24,15 +24,9 @@ target_y = random.randint(0, SCREEN_HEIGHT - target_height)
 color = (random.randint(a:0, b:255), random.randint(a:0, b:255), random.randint(a:0, b:255))
 
 
-
-
 running = True
 while running:
     pass
-
-
-
-
 
 
 pygame.quit()
